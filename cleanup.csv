@@ -1,0 +1,9 @@
+SYSTEM,lnk,ini,bak,cur,ico,sys,tmp,dll,cpl
+IMAGES,jpg,png,svg,ai,bmp,gif,jpeg,tif,tiff
+VIDEOS,avi,flv,mp4,mpg,mpeg,rm,vob,wmv,h264,3gp,mov,mkv
+AUDIO,aif,mid,midi,mp3,mpa,ogg,wav,wma,wpl,m3u
+DOCUMENTS,txt,docx,doc,pdf,rtf,odt,tex,wks,wps,wpd,xlsx
+COMPRESSED,7z,rar,tar.gz,z,zip,deb,pkg,tar.xz
+EXECUTABLES,apk,bat,exe,jar,vsf
+CODING,py,js,vue,c,class,java,css
+TORRENT,torrent
